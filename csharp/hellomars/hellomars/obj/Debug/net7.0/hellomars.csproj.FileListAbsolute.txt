@@ -1,0 +1,14 @@
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.deps.json
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.runtimeconfig.json
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.dll
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.pdb
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.AssemblyInfoInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.AssemblyInfo.cs
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.csproj.CoreCompileInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.dll
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/refint/hellomars.dll
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.pdb
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.genruntimeconfig.cache
+/Users/mrfm/Documents/Aiub/Projects/csharp/hellomars/hellomars/obj/Debug/net7.0/ref/hellomars.dll
