@@ -1,0 +1,14 @@
+/Users/mrfm/Desktop/all-about-c#/prime number/two/bin/Debug/net7.0/two
+/Users/mrfm/Desktop/all-about-c#/prime number/two/bin/Debug/net7.0/two.deps.json
+/Users/mrfm/Desktop/all-about-c#/prime number/two/bin/Debug/net7.0/two.runtimeconfig.json
+/Users/mrfm/Desktop/all-about-c#/prime number/two/bin/Debug/net7.0/two.dll
+/Users/mrfm/Desktop/all-about-c#/prime number/two/bin/Debug/net7.0/two.pdb
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.AssemblyInfoInputs.cache
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.AssemblyInfo.cs
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.csproj.CoreCompileInputs.cache
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.dll
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/refint/two.dll
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.pdb
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/two.genruntimeconfig.cache
+/Users/mrfm/Desktop/all-about-c#/prime number/two/obj/Debug/net7.0/ref/two.dll
