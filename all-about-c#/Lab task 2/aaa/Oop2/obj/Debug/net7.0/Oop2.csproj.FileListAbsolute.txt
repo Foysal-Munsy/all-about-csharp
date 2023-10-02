@@ -1,0 +1,14 @@
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/bin/Debug/net7.0/Oop2
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/bin/Debug/net7.0/Oop2.deps.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/bin/Debug/net7.0/Oop2.runtimeconfig.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/bin/Debug/net7.0/Oop2.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/bin/Debug/net7.0/Oop2.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.AssemblyInfoInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.AssemblyInfo.cs
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.csproj.CoreCompileInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/refint/Oop2.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/Oop2.genruntimeconfig.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab task 2/aaa/Oop2/obj/Debug/net7.0/ref/Oop2.dll
