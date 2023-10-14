@@ -1,0 +1,14 @@
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/bin/Debug/net7.0/Structure
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/bin/Debug/net7.0/Structure.deps.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/bin/Debug/net7.0/Structure.runtimeconfig.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/bin/Debug/net7.0/Structure.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/bin/Debug/net7.0/Structure.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.AssemblyInfoInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.AssemblyInfo.cs
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.csproj.CoreCompileInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/refint/Structure.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/Structure.genruntimeconfig.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/solve/Structure/obj/Debug/net7.0/ref/Structure.dll

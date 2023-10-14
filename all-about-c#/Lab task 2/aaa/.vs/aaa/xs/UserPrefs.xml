@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{AEAD5AF4-44F9-4B2A-944F-1123885A344A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Oop2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oop2/Program.cs">
+    <Files>
+      <File FileName="Oop2/Program.cs" Line="20" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aaa" expanded="True">
+            <Node name="Oop2">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Oop2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
