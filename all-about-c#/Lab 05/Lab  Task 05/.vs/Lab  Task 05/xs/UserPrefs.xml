@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{69AA8098-D021-484F-9335-FF045FBA466C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab  Task 05/Teacher.cs">
+    <Files>
+      <File FileName="Lab  Task 05/Program.cs" Line="21" Column="33" />
+      <File FileName="Lab  Task 05/Human.cs" Line="10" Column="4" />
+      <File FileName="Lab  Task 05/Student.cs" Line="15" Column="55" />
+      <File FileName="Lab  Task 05/ExStudent.cs" Line="14" Column="58" />
+      <File FileName="Lab  Task 05/Teacher.cs" Line="19" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab  Task 05" expanded="True">
+            <Node name="Lab  Task 05">
+              <Node name="Teacher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab_220_220Task_22005 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

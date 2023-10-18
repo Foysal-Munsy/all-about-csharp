@@ -1,0 +1,14 @@
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/bin/Debug/net7.0/BirdCanFly
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/bin/Debug/net7.0/BirdCanFly.deps.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/bin/Debug/net7.0/BirdCanFly.runtimeconfig.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/bin/Debug/net7.0/BirdCanFly.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/bin/Debug/net7.0/BirdCanFly.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.AssemblyInfoInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.AssemblyInfo.cs
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.csproj.CoreCompileInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/refint/BirdCanFly.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/BirdCanFly.genruntimeconfig.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/BirdCanFly/BirdCanFly/obj/Debug/net7.0/ref/BirdCanFly.dll

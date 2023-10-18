@@ -1,0 +1,14 @@
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/bin/Debug/net7.0/Lab  Task 05
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/bin/Debug/net7.0/Lab  Task 05.deps.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/bin/Debug/net7.0/Lab  Task 05.runtimeconfig.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/bin/Debug/net7.0/Lab  Task 05.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/bin/Debug/net7.0/Lab  Task 05.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.AssemblyInfoInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.AssemblyInfo.cs
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.csproj.CoreCompileInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/refint/Lab  Task 05.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/Lab  Task 05.genruntimeconfig.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Lab  Task 05/Lab  Task 05/obj/Debug/net7.0/ref/Lab  Task 05.dll
