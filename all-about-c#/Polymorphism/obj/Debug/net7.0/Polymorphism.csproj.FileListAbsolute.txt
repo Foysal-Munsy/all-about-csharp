@@ -1,0 +1,14 @@
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/bin/Debug/net7.0/Polymorphism
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/bin/Debug/net7.0/Polymorphism.deps.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/bin/Debug/net7.0/Polymorphism.runtimeconfig.json
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/bin/Debug/net7.0/Polymorphism.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/bin/Debug/net7.0/Polymorphism.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfo.cs
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/refint/Polymorphism.dll
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.pdb
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/Polymorphism.genruntimeconfig.cache
+/Users/mrfm/Documents/Aiub/Projects/all-about-c#/Polymorphism/obj/Debug/net7.0/ref/Polymorphism.dll
